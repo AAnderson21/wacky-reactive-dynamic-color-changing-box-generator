@@ -1,6 +1,5 @@
 import React from 'react';
 import Box from './Box';
-import { reds } from './boxStuff';
 
 const DivList = (props) => {
     const arr = new Array(props.count).fill(1);
